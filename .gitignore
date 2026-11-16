@@ -1,0 +1,23 @@
+# Dataset
+dataset/
+
+# Trained models and generated results
+models/
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
